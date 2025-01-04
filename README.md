@@ -13,7 +13,7 @@ Welcome to the **Basic Calculator** project! This is a simple, responsive, and f
 ---
 
 ## Demo
-To view the calculator in action, simply open the `index.html` file in your browser.
+To view the calculator in action, simply download the index.html,styles.css,and script.js inthe same directory then open the `index.html` file in your browser.
 
 ---
 
