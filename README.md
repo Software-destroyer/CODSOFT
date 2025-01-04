@@ -1,81 +1,71 @@
-# Basic Calculator
+# Codsoft Calculator Project
 
-This is a simple web-based calculator application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
-
-## Features
-
-- Responsive design.
-- Basic arithmetic operations: addition (+), subtraction (-), multiplication (*), and division (/).
-- Clear (C) button to reset the calculator.
-- Support for decimal inputs.
-- Keyboard input support for digits, operators, and commands.
-
-## Preview
-
-![Calculator Screenshot](screenshot.png)
-
-## How to Use
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/basic-calculator.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd basic-calculator
-   ```
-
-3. Open the `index.html` file in your preferred web browser.
-
-4. Use the calculator by clicking the buttons or using your keyboard:
-   - Digits (0-9) and decimal point (.) can be entered.
-   - Use arithmetic operators (+, -, *, /) for calculations.
-   - Press "Enter" to evaluate the expression.
-   - Press "C" or "Escape" to clear the display.
-
-## Project Structure
-
-```
-├── index.html       # Main HTML file
-├── styles.css       # CSS for styling (inline in HTML for this project)
-├── script.js        # JavaScript for functionality (inline in HTML for this project)
-└── README.md        # Project documentation
-```
-
-## Keyboard Shortcuts
-
-- **Numbers (0-9):** Input digits.
-- **Operators (+, -, *, /):** Input arithmetic operators.
-- **Enter:** Evaluate the expression.
-- **Escape:** Clear the display.
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Future Enhancements
-
-- Add support for advanced operations like square root, percentage, and power.
-- Enhance design for better aesthetics.
-- Add unit tests for reliability.
-- Deploy the application online for public use.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contribution
-
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+Welcome to the **Basic Calculator** project! This is a simple, responsive, and functional web-based calculator built using **HTML**, **CSS**, and **JavaScript**. The project is designed to perform basic arithmetic operations while providing a clean user-friendly interface.
 
 ---
 
-### Author
+## Features
+- Perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
+- Interactive and intuitive user interface.
+- Keyboard input support for calculations.
+- Lightweight and fully responsive design.
 
-[Your Name](https://github.com/your-username)
+---
 
-Feel free to contact me for feedback or collaboration!
+## Demo
+To view the calculator in action, simply open the `index.html` file in your browser.
+
+---
+
+## Technologies Used
+- **HTML**: For the structure of the application.
+- **CSS**: For styling and layout.
+- **JavaScript**: For logic and interactivity.
+
+---
+
+## Project Structure
+```
+CODSOFT/
+├── index.html        # Main HTML file
+├── styles.css        # CSS for styling
+└── script.js         # JavaScript for functionality
+```
+
+---
+
+## How to Run the Project
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Software-destroyer/CODSOFT.git
+   ```
+
+2. **Navigate to the Project Folder**:
+   ```bash
+   cd CODSOFT
+   ```
+
+3. **Open the Application**:
+   Open the `index.html` file in your favorite web browser.
+
+---
+
+## Usage
+1. Use the buttons on the calculator interface to input numbers and operators.
+2. Press `=` or the "Enter" key to calculate the result.
+3. Use the "C" button or the "Escape" key to clear the display.
+
+---
+
+---
+
+
+
+---
+
+## Author 
+  [Tehjib](https://github.com/Software-destroyer)
+
+Feel free to reach out if you have any questions or suggestions!
 
